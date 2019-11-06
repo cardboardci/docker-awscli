@@ -1,8 +1,0 @@
----
-name: github
-provider: github.com
-repository: docker-awscli
-url: https://github.com/cardboardci/docker-awscli
-clone:
-  ssh: git@github.com:cardboardci/docker-awscli.git
-  https: https://github.com/cardboardci/docker-awscli.git
