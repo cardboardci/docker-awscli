@@ -1,8 +1,0 @@
-{
-  "name": "docker-awscli",
-  "tagline": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services.",
-  "license": {
-    "name": "MIT"
-  },
-  "tags": ["docker", "aws", "awscli"]
-}
